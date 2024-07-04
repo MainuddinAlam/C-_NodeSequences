@@ -1,0 +1,30 @@
+Filename: node_sequence.txt
+========================================
+ProgramDescription
+
+This program, in the typical case, first constructs a sequence of linked nodes
+containing integer values and displays the values in that sequence. Then the
+program removes one of the values from the sequence and re-displays the revised
+sequence to prove that the value has in fact been removed. Finally, the program
+adds a new value to the sequence after a particular value in the sequence, and
+once again displays the sequence values to show that the new value has in fact
+been inserted. If the value to be removed is not actually in the sequence, then
+the sequence is unchanged when re-displayed. Similarly, if the sequence value
+after which a new value is to be added is not actually in the sequence, then in
+this case too the sequence remains unchanged when redisplayed.
+
+The program receives its input from the following six command-line arguments:
+1. First is the (smaller) start value of the range of values for the sequence.
+2. Second is the (larger) end value of the range of values for the sequence.
+3. Third is either a 'b' or an 'e' to indicate whether each new values should
+   be added to the beginning or to the end of the sequence as the sequence is
+   being constructed.
+4. Fourth is the value to be removed from the sequence (this value may or may
+   not actually be in the sequence.
+5. Fifth is the new value to be added to the sequence.
+6. Sixth is the sequence value after which the new value is to be added (this
+   value too may or may not actually be in the sequence).
+                                                                  Screen 1 of 1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+----------------------------------------
+========================================
