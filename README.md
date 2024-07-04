@@ -1,2 +1,2 @@
-# C-_NodeSequences
+# C++_NodeSequences
 C++ assignment on Node Sequences
